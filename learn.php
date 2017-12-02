@@ -1,3 +1,3 @@
 <?php
-echo "learn git";
+echo "learn git hello";
 ?>
